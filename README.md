@@ -4,4 +4,10 @@ This is your project's README file. Here, you can include information about your
 
 ## Authors
 
+<<<<<<< HEAD
 * **Daniel Dominguez** - *Initial work* - [Daniel Dominguez](link)
+=======
+* **Daniel Dominguez** - *Initial work* - [Daniel Dominguez](link)
+
+Hola desde develop
+>>>>>>> develop
